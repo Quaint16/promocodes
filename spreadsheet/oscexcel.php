@@ -1,6 +1,6 @@
 <?php
 
-namespace OSC\GSE\Spreadsheet;
+namespace QUAINT\DEV\Spreadsheet;
 
 
 class OSCExcel 

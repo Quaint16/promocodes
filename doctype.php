@@ -1,6 +1,6 @@
 <?php
 
-namespace OSC\GSE\ASU\Models;
+namespace QUAINT\DEV;
 
 use QUAINT\DEV\HLEntities\Citizenship;
 use  QUAINT\DEV\HLEntities\DocTypes;
